@@ -11,7 +11,7 @@ x2 = (-b-y)/(2*a)
 
 #Saída
 if x<0 :
-	print("Delta negativo, raízes inexistem")
+	print("Delta negativo, raízes inexistem.")
 elif x1 == x2 :
 	print("Raíz única, de valor:", x1)
 else :
